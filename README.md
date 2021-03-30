@@ -1,7 +1,7 @@
 ### 👋 Hi there, my name is Justin. 👋
 I am a recent graduate of the Metropolitan State Unviversity of Denver, where I majored in theoretical mathematics and minored in CS.
 I would love to go to grad school for mathematics and get a PhD in analysis or topology, but the needs that come along with having a wife 
-and son has brought me back to my first love, Computer Science!
+and son has brought me back to my first love, Computer Science!  Right now I want to get some certificates while I build my portfolio.
 <!--
 **JustinSingleton303/JustinSingleton303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
